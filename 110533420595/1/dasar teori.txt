@@ -1,0 +1,13 @@
+B.	DASAR TEORI
+Webserver Apache dapat digunakan untuk menampung beberapa situs dalam mesin yang sama. Dari situs yang sederhana tanpa konfigurasi yang rumit hingga situs yang kompleks yang menggunakan konfigurasi khusus. Salah satu keunggulan apache ini adalah setiap situs tersebut menggunakan alamat IP yang sama.
+1.	PHP
+PHP (PHP: Hypertext Preprocessor) merupakan salah satu bahasa web-scripting yang sangat powerful. Sejak pertama kali diperkenalkan, bahasa ini dimaksudkan untuk menghasilkan halaman-halaman web yang dinamis. Hingga saat ini, PHP banyak sekali digunakan dalam membuat aplikasi web.
+
+2.	Tipe Data
+PHP mendukung delapan tipe primitif, yang terdiri dari empat tipe skalar (boolean, integer, float/double, dan string), dua tipe gabungan (array dan object), dan sisanya adalah tipe khusus (NULL dan resource). Meskipun keberadaan tipe data dalam deklarasi variabel tidak penting, namun dalam tahap selanjutnya sangatlah penting.
+
+3.	Komentar
+PHP mendukung tiga jenis sintaks untuk menuliskan baris komentar, meliputi style C, C++, dan Perl / Shell.
+
+4.	Tag PHP
+Parser PHP bekerja dengan menguraikan intruksi-intruksi yang diletakkan di antara tag pembuka dan penutup. Ada empat jenis style tag yang dapat kita gunakan untuk menyatakan bahwa kode merupakan intruksi PHP.
